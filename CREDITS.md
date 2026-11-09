@@ -70,6 +70,7 @@
 ## Дополнительные изображения VHS
 
 - `vhs_fog.png` — обработанный фрагмент картинки, присланной пользователем. Автор и лицензия исходной картинки не установлены; перед публичным размещением проверьте права.
+- `vhs_fog5.png` — версия `vhs_fog.png`, дополнительно обработанная для пятой кассеты (15.08). Исходник тот же: автор и лицензия не установлены; перед публичным размещением проверьте права.
 - `vhs_stranger.jpg` — [Person in Creepy Halloween Mask](https://www.pexels.com/photo/person-in-creepy-halloween-mask-14173573/), Gerardo Manzano, [Pexels License](https://www.pexels.com/license/). Фото обрезано и тонировано в сцене.
 
 - `vhs_searcher.jpg` — фотография, присланная пользователем для героя второй части; изображение обрезано и тонировано. Происхождение и лицензия исходного фото не установлены — перед публичной публикацией проверьте права.
@@ -80,3 +81,7 @@
 - `vhs_tension.mp3` — фрагмент «Darkest Child» Kevin MacLeod ([incompetech](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1100783)), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Дорожка обрезана.
 - `vhs_fogline.mp3` — синтетическая русская речь Google Translate TTS, понижена тональность и добавлено эхо. Проверьте применимые условия использования сервиса перед публичным распространением.
 - `vhs_shot.mp3` — «20 gauge shotgun gunshot», michorvath, [Freesound](https://freesound.org/people/michorvath/sounds/427595/), CC0.
+
+## Свои фоны частей II–IV
+- `vhs2_hall.png`, `vhs2_class.png`, `vhs4_hall.png` — фотографии, присланные пользователем; обрезаны и тонированы под игру. Происхождение и права не установлены — перед публичной публикацией проверьте права.
+- `vhs3_hall.png` — фотография SCHERBAKOFF (vk.com/scherbakoff13), присланная пользователем; подпись автора на снимке сохранена. Перед публичной публикацией получите разрешение автора.
